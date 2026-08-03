@@ -7,7 +7,7 @@ Die Aufgabe war es ein fahrbares Objekt zu bauen, dass auf eine Wand zufährt, e
 
 Also haben wir meinen Lego Porsche genommen und angefangen.
 
-![Einzelteile](26_04_24_Unterricht.jpg)
+![Einzelteile](26_02_24_Unterricht.jpg)
 
 Ich habe einen Schaltplan entwickelt um die Hauptanforderungen zu erfüllen. Nachdem das geschehen war, wollten wir aber nicht aufhören und haben uns neue Sachen überlegt die wir hinzufügen wollten.
 
