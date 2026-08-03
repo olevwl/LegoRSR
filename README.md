@@ -21,4 +21,4 @@ Die Verbindung zwischen Software und Arduino lief über Bluetooth und die Kamera
 
 ![Software](Software.png)
 
-![Steckbrief](Steeckbrief_Gihub.pdf)
+![Steckbrief](Steckbrief_Gihub.pdf)
