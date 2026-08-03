@@ -20,3 +20,5 @@ Als dann noch Zeit war implementierte ich auch noch ein SSD1306 Display und übe
 Die Verbindung zwischen Software und Arduino lief über Bluetooth und die Kamera lief über einen Webserver auf dem ESP32, wo ich in der Software dann den Stream abgefangen habe.
 
 ![Software](Software.png)
+
+![Steckbrief](Steeckbrief_Gihub.pdf)
