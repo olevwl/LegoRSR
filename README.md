@@ -15,4 +15,8 @@ Also erstellte ich noch eine Software zum fernsteuern, damit konnte man Lichter 
 
 Als dann noch Zeit war implementierte ich auch noch ein SSD1306 Display und über einen ESP32-CAM eine Kamera im Innenraum.
 
+![Heckansicht](hinten.JPG)
 
+Die Verbindung zwischen Software und Arduino lief über Bluetooth und die Kamera lief über einen Webserver auf dem ESP32, wo ich in der Software dann den Stream abgefangen habe.
+
+![Software](29_02_24_3.Version Software.png)
